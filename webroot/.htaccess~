@@ -19,7 +19,7 @@ ErrorDocument 404 "This is a Anax 404. Document is not here."
   RewriteEngine on
  
   # Must use RewriteBase on www.student.bth.se, Rewritebase for url /~mos/test is /~mos/test/
-  RewriteBase /~limu15/phpmvc/kmom01/Anax-MVC/webroot/
+  #RewriteBase /change/this/to/site/base/url/if/needed/
  
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d

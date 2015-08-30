@@ -1,0 +1,39 @@
+Redovisning
+====================================
+ 
+Kmom01: XXX
+------------------------------------
+ 
+####Vilken utvecklingsmiljö använder du?
+Jag använder mig av en dator med operativsystemet Windows 10. Som texteditor har 
+jag valt att fortsätta använda jEdit, som jag använde i de tidigare kurserna på BTH. 
+Jag arbetar för det mesta i Mozilla Firefox när jag gör uppgifterna, men använder mig även 
+av Chrome som en ytterligare webbläsare. För att klona Anax-MVC från github använde jag mig 
+av Cygwin, som vi också det använt tidigare. Förutom dessa program använder jag även 
+FileZilla och Xampp för att kunna lägga över material på studentservern resp. att 
+arbeta lokalt.
+
+####Är du bekant med ramverk sedan tidigare?
+Inte jättebekant, kan jag inte säga. Den erfarenhet jag har kommer framförallt ifrån vårt 
+Anax-base i oophp (som ju såg lite annorlunda ut från det vi håller på med nu). Jag testade även på 
+AngularJS-kursen på Codecademy under sommaren och där använde man sig av controller, view och model, så 
+som vi gör nu i php-mvc, så det blev en liten aha-upplevelse när jag började denna kurs eftersom jag 
+då inte visste vad just mvc-ramverk var för något innan. Så man kan säga att jag har koll på vad 
+ramverk är för något sedan tidigare, men inte stor efarenhet av specifika ramverk eller hur man använder dem.
+
+####Är du sedan tidigare bekant med de lite mer avancerade begrepp som introduceras?
+Jag vet inte helt vad som syftas på med "lite mer avancerade begrepp", men jag väljer att tolka 
+det som t.ex. traits, dependency injections och liknande som vi fick läsa om i kursmomentet
+
+####Din uppfattning om Anax, och speciellt Anax-MVC?
+
+ 
+Kmom02: XXX
+------------------------------------
+ 
+Kommer senare...
+
+Kmom03: XXX
+------------------------------------
+ 
+Kommer senare...

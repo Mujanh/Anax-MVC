@@ -1,0 +1,1 @@
+Linnéa studerar förnärvarande kurspaketen webbutveckling och webbprogrammering på BTH.
